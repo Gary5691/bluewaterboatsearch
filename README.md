@@ -1,10 +1,10 @@
-# bluewaterboatsearch
+# bluewaterboatsearch(.org)
 
-This repo scripts a simple scraper and presents the output with gunicorn, in a container. 
+This repo implements two scrapers, with the data output through gunicorn. Github actions push it to
+[Docker Hub](https://hub.docker.com/gary5691/bluewaterboatsearch) as a container. 
 
-It is the code behind ![bluewaterboatsearch.org](https://bluewaterboatsearch.org)
+It's running at [bluewaterboatsearch.org](https://bluewaterboatsearch.org)
 
 ![overview](overview.png)
 
 
-ssh://git-codecommit.ap-southeast-1.amazonaws.com/v1/repos/bluewaterboatsearch
